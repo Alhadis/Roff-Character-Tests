@@ -1,0 +1,3 @@
+[*.tsv]
+tab_width = 14
+trim_trailing_whitespace = false
