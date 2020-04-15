@@ -1,4 +1,4 @@
-#	vim:	ts=14
+# Byte	Result	Warning   # vim:ts=14
 00	Unsupported	mandoc: <stdin>:1:6: ERROR: skipping bad character: 0x0
 01	Unsupported	mandoc: <stdin>:1:6: UNSUPP: unsupported control character: 0x1
 02	Unsupported	mandoc: <stdin>:1:6: UNSUPP: unsupported control character: 0x2

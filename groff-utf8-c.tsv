@@ -1,4 +1,4 @@
-#	vim:	ts=14
+# Byte	Result	Warning   # vim:ts=14
 00	Unsupported	
 01	Unsupported	troff: <standard input>:1: a leader character is not allowed in a name
 02	Supported	
@@ -91,7 +91,7 @@
 59	Supported	
 5A	Supported	
 5B	Supported	
-5C	Unsupported	<standard input>:2: error: end of file while defining macro 'XS'	<standard input>:2: error: end of file while defining macro 'XS'
+5C	Unsupported	<standard input>:2: error: end of file while defining macro 'XS'
 5D	Supported	
 5E	Supported	
 5F	Supported	

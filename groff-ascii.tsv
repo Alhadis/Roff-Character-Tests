@@ -1,4 +1,4 @@
-#	vim:	ts=14
+# Byte	Result	Warning   # vim:ts=14
 00	Unsupported	
 01	Unsupported	troff: <standard input>:1: a leader character is not allowed in a name
 02	Supported	

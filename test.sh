@@ -35,7 +35,7 @@ test_byte(){
 	| $2 | sed 's/ *() *()$//g; /^  *.*()$/d; /./!d' | trimend
 }
 
-printf '#\tvim:\tts=14\n'
+printf '# Byte\tResult\tWarning   # vim\072ts=14\n'
 for i in {0..255}; do
 	j=`test_byte "$i" "$*" 2>&1`
 	printf '%02X\t%s\t%s\n' "$i" \
